@@ -26,6 +26,19 @@
   authors:
     - *mda
 
+- title: "A Compilation Flow for Parametric Dataflow: Programming Model, Scheduling, and Application to Heterogeneous MPSoC"
+  url: https://hal.inria.fr/hal-01048649
+  booktitle: International Conference on Compilers, Architecture and Synthesis for Embedded Systems (CASES)
+  address: New Dehli, India
+  date: 2014-10-13
+  type: conference
+  authors:
+    - *mda
+    - *kma
+    - *tri
+    - *jma
+    - *hpc
+
 - title: "Contrôle d’application flot de données pour les systèmes sur puces : étude de cas sur la plateforme Magali"
   url: http://hal.inria.fr/hal-00984310
   booktitle: Conférence en Parallélisme, Architecture et Système (ComPAS)
