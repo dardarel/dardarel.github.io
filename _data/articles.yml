@@ -1,0 +1,163 @@
+# authors
+- &mda
+  name: Mickaël Dardaillon
+  bold: true
+- &kma
+  name: Kevin Marquet
+  url: http://perso.citi-lab.fr/kmarquet/
+- &tri
+  name: Tanguy Risset
+  url: http://perso.citi.insa-lyon.fr/trisset/
+- &jma
+  name: Jérôme Martin
+- &hpc
+  name: Henri-Pierre Charles
+  url: http://henripierre.charles.free.fr/
+- &cla
+  name: Cédric Lauradoux
+  url: http://planete.inrialpes.fr/~lauradou/
+
+# articles
+- title: "Compilation d'applications flot de données paramétriques pour MPSoC dédis à la radio logicielle"
+  url: DardaillonThesis14.pdf
+  address: INSA Lyon, France
+  date: 2014-11-19
+  type: thesis
+  authors:
+    - *mda
+
+- title: "Contrôle d’application flot de données pour les systèmes sur puces : étude de cas sur la plateforme Magali"
+  url: http://hal.inria.fr/hal-00984310
+  booktitle: Conférence en Parallélisme, Architecture et Système (ComPAS)
+  address: Neuchâtel, Switzerland
+  date: 2014-04-23
+  type: conferencefr
+  authors:
+    - *mda
+    - *kma
+    - *tri
+    - *jma
+    - *hpc
+
+- title: "Compilation for heterogeneous SoCs : bridging the gap between software and target-specific mechanisms"
+  url: http://hal.inria.fr/hal-00936924
+  booktitle: Workshop on High Performance Energy Efficient Embedded Systems at the international conference on High Performance and Embedded Architecture and Compilation (HiPEAC)
+  address: Vienna, Austria
+  date: 2014-01-20
+  type: presentation
+  authors:
+    - *mda
+    - *kma
+    - *tri
+    - *jma
+    - *hpc
+
+- url: http://hal.inria.fr/hal-00737003
+  title: Hardware implementation of the GPS authentication
+  booktitle: International Conference on ReConFigurable Computing and FPGAs (ReConFig)
+  address: Cancun, Mexico
+  date: 2012-12-5
+  type: conference
+  authors:
+    - *mda
+    - *cla
+    - *tri
+
+- url: http://hal.inria.fr/hal-00736995
+  title: Software Defined Radio Architecture Survey for Cognitive Testbeds
+  booktitle: International Wireless Communications and Mobile Computing Conference (IWCMC)
+  address: Limasol, Cyprus
+  date: 2012-08-27
+  type: conference
+  authors:
+    - *mda
+    - *kma
+    - *tri
+    - name: Antoine Scherrer
+
+- title: "Cognitive Radio Programming: Existing Solutions and Open Issues"
+  url: http://hal.inria.fr/hal-00859467/
+  booktitle: Inria tech report
+  date: 2014-09-01
+  type: report
+  authors:
+    - *mda
+    - *kma
+    - *tri
+    - *jma
+    - *hpc
+
+- title: "Compilation d'application data flow paramétrique visant les systèmes sur puces dédiés"
+  url: http://compilation.gforge.inria.fr/2013_12_Dammarie/programme_detaille.html
+  booktitle: Rencontres de la communauté française de compilation
+  date: 2013-12-5
+  address: Dammarie-Les-Lys, France
+  type: presentation
+  authors:
+    - *mda
+    - *kma
+    - *tri
+    - *jma
+    - *hpc
+
+- title: "Front-End pour compilateur dataflow utilisant l'infrastructure llvm"
+  url: http://www.projet-semba-cluster-isle-rhone-alpes.org/semba13/Planning_Semba_2013.html
+  booktitle: Journées scientifiques SEmba
+  date : 2013-04-04
+  address: Lyon, France
+  type : presentation
+  authors:
+    - *mda
+    - *kma
+    - *tri
+    - *jma
+    - *hpc
+
+- title: "Machine Virtuelle pour la Radio Cognitive"
+  url: https://sites.google.com/site/fetch2013/program
+  booktitle: École d'hiver Francophone sur les Technologies de Conception des Systèmes embarqués Hétérogènes (FETCH)
+  date: 2013-01-08
+  address: Leysin, Switzerland
+  type: poster
+  authors:
+    - *mda
+    - *kma
+    - *tri
+    - *jma
+    - *hpc
+
+- title: "QC-SYND"
+  url: http://www.projet-semba-cluster-isle-rhone-alpes.org/semba11/programme.html
+  booktitle: Journées scientifiques SEmba
+  address: Valence, France
+  date: 2011-10-21
+  type: poster
+  authors:
+    - *mda
+    - *cla
+    - *tri
+
+- title: "Un nouveau flot de compilation pour application flot de données paramétrique"
+  booktitle: Colloque du GDR SoC-SiP
+  address: Paris, France
+  date: 2014-06-11
+  type: poster
+  authors:
+    - *mda
+    - *kma
+    - *tri
+    - *jma
+    - *hpc
+
+- title: "Cognitive Radio Programming Survey"
+  booktitle: Handbook of Research on Software-Defined and Cognitive Radio Technologies for Dynamic Spectrum Management
+  publisher: IGI Global
+  date: 2014-10-01
+  type: chapter
+  authors:
+    - *mda
+    - *kma
+    - *tri
+    - *jma
+    - *hpc
+

@@ -1,0 +1,5 @@
+{% for author in article.authors %}
+  {% if author.url %}<a href="{{author.url}}" target="_blank">{% endif %}{% if author.bold %}<b>{% endif %}
+    {{author.name}}{% unless forloop.last %},{% endunless %}
+  {% if author.bold %}</b>{% endif %}{% if author.url %}</a>{% endif %}
+{% endfor %}
