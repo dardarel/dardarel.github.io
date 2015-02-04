@@ -58,6 +58,11 @@ Issues](http://hal.inria.fr/hal-00859467/)<br>
 <hr>
 #### Posters and oral presentations
 
+1. [Compilation of Parametric Dataflow Applications for
+   Software-Defined-Radio-Dedicated MPSoCs](http://embedded.eecs.berkeley.edu/seminar/#77d07f).<br>
+   **Mickaël Dardaillon**<br>
+   in Design of Robotics and Embedded systems, Analysis, and Modeling Seminar (DREAMS),
+   U.C. Berkeley, California, February 2015.
 1. Un nouveau flot de compilation pour application flot de données paramétrique.<br>
    **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
    [Henri-Pierre Charles]<br>
