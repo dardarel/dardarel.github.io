@@ -1,7 +1,5 @@
 name:           "Mickaël Dardaillon"
 markdown:       redcarpet
-highlighter:    null
+highlighter:    pygments
 
 url:            "https://dardarel.github.io"
-
-timezone:       Europe/Paris
