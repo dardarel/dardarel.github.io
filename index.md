@@ -14,16 +14,15 @@ radio.
 He is interested in embedded systems programming, compilation and hardware
 architecture.
 
-He received the Engineering degree in Electronics, Signal and Image from
-[Polytech'Orléans], France, in 2011, the Master degree in Electronics, Signal
-and Microsystems from [Université d'Orléans], France, in 2011, and the Ph.D.
-degree in Computer Science from [INSA Lyon], France, in 2014, with the [Inria]
-Socrate team of the [CITI Laboratory], in collaboration with the [CEA LETI].
+He received the Engineering degree in Electrical Engineering from
+[Polytech'Orléans], France, in 2011, the Master degree in Electrical Engineering
+from [Université d'Orléans], France, in 2011, and the Ph.D.
+degree in Computer Science from [INSA Lyon], France, in 2014, working with the
+[CITI-Inria] laboratory in collaboration with [CEA LETI].
 
 [Nokia Technologies]: http://company.nokia.com/en/
 [Polytech'Orléans]: http://www.univ-orleans.fr/polytech/
 [Université d'Orléans]: http://www.univ-orleans.fr/
 [INSA Lyon]: http://www.insa-lyon.fr/en
-[Inria]: http://www.inria.fr/en
-[CITI Laboratory]: http://www.citi-lab.fr/
+[CITI-Inria]: http://www.citi-lab.fr/en_UK/
 [CEA LETI]: http://www-leti.cea.fr/en
