@@ -70,7 +70,7 @@ d3.json("graph.json", function(error, graph) {
 
 </script>
 
-The data displayed on this is based on <a href="http://www.cs.mcgill.ca/~rwest/wikispeedia/">Wikispeedia</a> (with data retrieved from <a href="http://snap.stanford.edu/data/wikispeedia.html">SNAP</a>), a game in which you are given two Wikipedia articles, and starting from the first article your goal is to navigate to the second one exclusively by following links.
+The data displayed on this graph is based on <a href="http://www.cs.mcgill.ca/~rwest/wikispeedia/">Wikispeedia</a> (with data retrieved from <a href="http://snap.stanford.edu/data/wikispeedia.html">SNAP</a>), a game in which you are given two Wikipedia articles, and starting from the first article your goal is to navigate to the second one exclusively by following links.
 Each node is one the 200 most visited pages, and each edge is the most visited link between these two pages.
 Node and edge sizes are based on the number of visits and clicks respectively,
 and node color is based on article category.
