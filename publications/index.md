@@ -6,7 +6,7 @@ title: "Publications"
 #### Thesis manuscript
 
 - [Compilation d'applications flot de données paramétriques pour MPSoC dédiés à
-  la radio logicielle](/DardaillonThesis14.pdf).<br>
+  la radio logicielle](http://www.theses.fr/2014ISAL0102/document).<br>
   **Mickaël Dardaillon** at INSA Lyon, France, November 2014.
 
 <hr>
