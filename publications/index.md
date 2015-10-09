@@ -21,6 +21,9 @@ title: "Publications"
 <hr>
 #### International conference articles
 
+1. Adaptive Digital Pre-distortion for Future Wireless Transmitters.<br>
+   **Mickaël Dardaillon**, [Chadi Jabbour] and [Vason Srini]<br>
+   in IEEE International Conference on Electronics, Circuits, and Systems. Cairo, Egypt, December 2015.
 1. [A Compilation Flow for Parametric Dataflow: Programming Model, Scheduling,
    and Application to Heterogeneous MPSoC](https://hal.inria.fr/hal-01048649).<br>
    **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
@@ -56,7 +59,7 @@ Issues](http://hal.inria.fr/hal-00859467/)<br>
    in Inria tech report, September 2014.
 
 <hr>
-#### Posters and oral presentations
+#### Seminars
 
 1. [Compilation of Parametric Dataflow Applications for
    Software-Defined-Radio-Dedicated MPSoCs](http://embedded.eecs.berkeley.edu/seminar/#77d07f).<br>
@@ -97,3 +100,5 @@ Issues](http://hal.inria.fr/hal-00859467/)<br>
 [Tanguy Risset]: http://perso.citi.insa-lyon.fr/trisset/
 [Henri-Pierre Charles]: http://henripierre.charles.free.fr/
 [Cedric Lauradoux]: http://planete.inrialpes.fr/~lauradou/
+[Chadi Jabbour]: http://www.researchgate.net/profile/Chadi_Jabbour/
+[Vason Srini]: http://www.researchgate.net/profile/Vason_Srini2/
