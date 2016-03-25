@@ -21,7 +21,7 @@ title: "Publications"
 <hr>
 #### International conference articles
 
-1. Adaptive Digital Pre-distortion for Future Wireless Transmitters.<br>
+1. [Adaptive Digital Pre-distortion for Future Wireless Transmitters](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7440316).<br>
    **Mickaël Dardaillon**, [Chadi Jabbour] and [Vason Srini]<br>
    in IEEE International Conference on Electronics, Circuits, and Systems. Cairo, Egypt, December 2015.
 1. [A Compilation Flow for Parametric Dataflow: Programming Model, Scheduling,
