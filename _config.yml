@@ -1,5 +1,5 @@
 name:           "Mickaël Dardaillon"
 markdown:       kramdown
-highlighter:    pygments
+highlighter:    rouge
 
 url:            "https://dardarel.github.io"
