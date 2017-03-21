@@ -10,6 +10,14 @@ title: "Publications"
   **Mickaël Dardaillon** at INSA Lyon, France, November 2014.
 
 <hr>
+#### Journal article
+
+- A new compilation flow for software-defined radio applications on heterogeneous mpsocs.<br>
+  **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
+  [Henri-Pierre Charles]<br>
+  in ACM Transactions on Architecture and Code Optimization (TACO), vol.
+  13, no. 2, June 2016.
+<hr>
 #### Book chapter
 
 - Cognitive Radio Programming Survey.<br>
