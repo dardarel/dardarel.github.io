@@ -12,7 +12,7 @@ title: "Publications"
 <hr>
 #### Journal article
 
-- A new compilation flow for software-defined radio applications on heterogeneous mpsocs.<br>
+- [A new compilation flow for software-defined radio applications on heterogeneous MPSoCs](https://hal.inria.fr/hal-01396143).<br>
   **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
   [Henri-Pierre Charles]<br>
   in ACM Transactions on Architecture and Code Optimization (TACO), vol.
@@ -29,19 +29,19 @@ title: "Publications"
 <hr>
 #### International conference articles
 
-1. [Adaptive Digital Pre-distortion for Future Wireless Transmitters](http://dx.doi.org/10.1109/ICECS.2015.7440316).<br>
+- [Adaptive Digital Pre-distortion for Future Wireless Transmitters](http://dx.doi.org/10.1109/ICECS.2015.7440316).<br>
    **Mickaël Dardaillon**, [Chadi Jabbour] and [Vason Srini]<br>
    in IEEE International Conference on Electronics, Circuits, and Systems. Cairo, Egypt, December 2015.
-1. [A Compilation Flow for Parametric Dataflow: Programming Model, Scheduling,
+- [A Compilation Flow for Parametric Dataflow: Programming Model, Scheduling,
    and Application to Heterogeneous MPSoC](https://hal.inria.fr/hal-01048649).<br>
    **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
    [Henri-Pierre Charles]<br>
    in International Conference on Compilers, Architecture and Synthesis for Embedded Systems (CASES), New Dehli, India, October 2014.
-1. [Hardware implementation of the GPS authentication](http://hal.inria.fr/hal-00737003).<br>
+- [Hardware implementation of the GPS authentication](http://hal.inria.fr/hal-00737003).<br>
    **Mickaël Dardaillon**, [Cedric Lauradoux] and [Tanguy Risset]<br>
    in International Conference on ReConFigurable Computing and FPGAs
    (ReConFig), Cancun, Mexico, December 2012.
-1. [Software Defined Radio Architecture Survey for Cognitive
+- [Software Defined Radio Architecture Survey for Cognitive
    Testbeds](http://hal.inria.fr/hal-00736995).<br>
    **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset] and Antoine Scherrer<br>
    in International Wireless Communications and Mobile Computing Conference
@@ -69,40 +69,44 @@ Issues](http://hal.inria.fr/hal-00859467/)<br>
 <hr>
 #### Seminars
 
-1. [Compilation of Parametric Dataflow Applications for
+- [Multirate Dataflow for FPGA Programming](https://hackmd.io/s/H1qxbyqkf#Micka%C3%ABl---MultiRate).<br>
+  **Mickaël Dardaillon**<br>
+  in Dataflow Worksop, INSA Rennes, France, December 2017.
+
+- [Compilation of Parametric Dataflow Applications for
    Software-Defined-Radio-Dedicated MPSoCs](http://embedded.eecs.berkeley.edu/seminar/#77d07f).<br>
    **Mickaël Dardaillon**<br>
    in Design of Robotics and Embedded systems, Analysis, and Modeling Seminar (DREAMS),
    U.C. Berkeley, California, February 2015.
-1. Un nouveau flot de compilation pour application flot de données paramétrique.<br>
+- Un nouveau flot de compilation pour application flot de données paramétrique.<br>
    **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
    [Henri-Pierre Charles]<br>
    in Colloque du GDR SoC-SiP, Paris, France, June 2014.
-1. [Compilation for heterogeneous SoCs : bridging the gap between software and
+- [Compilation for heterogeneous SoCs : bridging the gap between software and
    target-specific mechanisms](http://hal.inria.fr/hal-00936924).<br>
    **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
    [Henri-Pierre Charles]<br>
    in Workshop on High Performance Energy Efficient Embedded Systems at the
    international conference on High Performance and Embedded Architecture and
    Compilation (HiPEAC), Vienna, Austria, January 2014.
-1. [Compilation d'application data flow paramétrique visant les systèmes sur puces
+- [Compilation d'application data flow paramétrique visant les systèmes sur puces
    dédiés](http://compilation.gforge.inria.fr/2013_12_Dammarie/programme_detaille.html).<br>
    **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
    [Henri-Pierre Charles]<br>
    in Rencontres de la communauté française de compilation, Dammarie-Les-Lys,
    France, December 2013.
-1. [Front-End pour compilateur dataflow utilisant l'infrastructure llvm](http://www.projet-semba-cluster-isle-rhone-alpes.org/semba13/Planning_Semba_2013.html).<br>
+- [Front-End pour compilateur dataflow utilisant l'infrastructure llvm](http://www.projet-semba-cluster-isle-rhone-alpes.org/semba13/Planning_Semba_2013.html).<br>
    **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
    [Henri-Pierre Charles]<br>
    in Journées scientifiques SEmba, Lyon, France, April 2013.
-1. [Machine Virtuelle pour la Radio Cognitive](https://sites.google.com/site/fetch2013/program).<br>
+- [Machine Virtuelle pour la Radio Cognitive](https://sites.google.com/site/fetch2013/program).<br>
    **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
    [Henri-Pierre Charles]<br>
    in École d'hiver Francophone sur les Technologies de Conception des Systèmes
    embarqués Hétérogènes (FETCH), Leysin, Switzerland, January 2013.
-1. [QC-SYND](http://www.projet-semba-cluster-isle-rhone-alpes.org/semba11/programme.html).<br>
+- [QC-SYND](http://www.projet-semba-cluster-isle-rhone-alpes.org/semba11/programme.html).<br>
    **Mickaël Dardaillon**, [Cedric Lauradoux] and [Tanguy Risset]<br>
-   in Journées scientifiques SEmba, Valence, France, October 2011.
+   in Journées scientifiques SEmba, Valence, France, October 201-
 
 [Kevin Marquet]: http://perso.citi-lab.fr/kmarquet/
 [Tanguy Risset]: http://perso.citi.insa-lyon.fr/trisset/
