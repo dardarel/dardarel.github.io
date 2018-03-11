@@ -5,8 +5,8 @@ title: "Home page"
 
 #### Resume
 
-Mickaël Dardaillon is currently with [CAIRN Team] in [IRISA Laboratory] at
-Rennes, working on WCET-aware parallelization of model-based
+Mickaël Dardaillon is currently at the [IRISA] laboratory in
+Rennes, France, working on WCET-aware parallelization of model-based
 applications for heterogeneous parallel systems in the [ARGO European
 project].
 His current research efforts concentrates on compilation for MPSoC and
@@ -40,8 +40,7 @@ students at INSA Lyon.
 [CITI-Inria]: http://www.citi-lab.fr/en_UK/
 [CEA LETI]: http://www-leti.cea.fr/en/
 [National Instruments]: https://www.ni.com/
-[CAIRN Team]: https://team.inria.fr/cairn/
-[IRISA Laboratory]: https://www.irisa.fr/en
+[IRISA]: https://www.irisa.fr/en
 [ARGO European project]: http://www.argo-project.eu/
 
 [FPGA architecture]: http://perso.citi.insa-lyon.fr/trisset/cours/rts12/slides/FPGA-handout.pdf
