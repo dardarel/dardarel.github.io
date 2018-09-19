@@ -49,6 +49,9 @@ students at INSA Lyon.
 
 For a full list of publications, see [publications](publications).
 
+- [Fine-Grain Iterative Compilation for WCET Estimation](http://www.irisa.fr/alf/downloads/puaut/papers/WCET_2018.pdf).<br>
+  [Isabelle Puaut], **Mickaël Dardaillon**, Christoph Cullmann, Gernot Gebhard, and Steven Derrien<br>
+  in International Workshop on Worst-Case Execution Time Analysis, Barcelona, Spain, July 2018.
 - [A new compilation flow for software-defined radio applications on heterogeneous MPSoCs](https://hal.inria.fr/hal-01396143).<br>
   **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
   [Henri-Pierre Charles]<br>
@@ -71,4 +74,5 @@ For a full list of publications, see [publications](publications).
 [Henri-Pierre Charles]: http://henripierre.charles.free.fr/
 [Cedric Lauradoux]: http://planete.inrialpes.fr/~lauradou/
 [Chadi Jabbour]: http://www.researchgate.net/profile/Chadi_Jabbour/
+[Isabelle Puaut]: https://team.inria.fr/pacap/members/isabelle-puaut/
 [Vason Srini]: http://www.researchgate.net/profile/Vason_Srini2/

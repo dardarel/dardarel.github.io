@@ -29,6 +29,9 @@ title: "Publications"
 <hr>
 #### International conference articles
 
+- [Fine-Grain Iterative Compilation for WCET Estimation](http://www.irisa.fr/alf/downloads/puaut/papers/WCET_2018.pdf).<br>
+  [Isabelle Puaut], **Mickaël Dardaillon**, Christoph Cullmann, Gernot Gebhard, and Steven Derrien<br>
+  in International Workshop on Worst-Case Execution Time Analysis, Barcelona, Spain, July 2018.
 - [Adaptive Digital Pre-distortion for Future Wireless Transmitters](http://dx.doi.org/10.1109/ICECS.2015.7440316).<br>
    **Mickaël Dardaillon**, [Chadi Jabbour] and [Vason Srini]<br>
    in IEEE International Conference on Electronics, Circuits, and Systems. Cairo, Egypt, December 2015.
@@ -114,3 +117,4 @@ Issues](http://hal.inria.fr/hal-00859467/)<br>
 [Cedric Lauradoux]: http://planete.inrialpes.fr/~lauradou/
 [Chadi Jabbour]: http://www.researchgate.net/profile/Chadi_Jabbour/
 [Vason Srini]: http://www.researchgate.net/profile/Vason_Srini2/
+[Isabelle Puaut]: https://team.inria.fr/pacap/members/isabelle-puaut/
