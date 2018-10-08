@@ -5,36 +5,23 @@ title: "Home page"
 
 #### Resume
 
-Mickaël Dardaillon is currently at the [IRISA] laboratory in
-Rennes, France, working on WCET-aware parallelization of model-based
-applications for heterogeneous parallel systems in the [ARGO European
-project].
+Mickaël Dardaillon is an associate professor at [INSA Rennes].
+He holds a joint appointment at the [IETR] laboratory.
 His current research efforts concentrates on compilation for MPSoC and
 FPGA.
 He is interested in embedded systems programming, compilation and hardware
 architecture.
 
 He received the Engineering and Master degrees in Electrical Engineering from
-[Polytech'Orléans], France, in 2011, and the Ph.D.
-degree in Computer Science from [INSA Lyon], France, in 2014, working with the
-[CITI-Inria] laboratory in collaboration with [CEA LETI].
-He previously worked at [Nokia Technologies] in Berkeley, California,
-and [National Instruments] in Austin, Texas.
+[Polytech'Orléans], France, in 2011,
+and the Ph.D.  degree in Computer Science from [INSA Lyon], France, in
+2014, working with the [CITI-Inria] laboratory in collaboration with
+[CEA LETI].
+He previously worked at [Nokia] in Berkeley, California,
+[National Instruments] in Austin, Texas
+and [IRISA] laboratory in Rennes, France.
 
-#### Teaching
-
-Mickaël currently teaches computer architecture in the computer science
-department of Université Rennes 1.
-He has experience in teaching both professionally and as a volonteer.
-- Computer architecture for undergraduate students at Université Rennes
-1.
-- Lego Robotics for 5th grade students in Murchison Elementary School at
-Austin, Texas.
-- Computer architecture, Algorithmic and database for undergraduate
-students at INSA Lyon.
-- [FPGA architecture] for master students at INSA Lyon.
-
-[Nokia Technologies]: http://company.nokia.com/en/
+[Nokia]: https://www.nokia.com/en_int
 [Polytech'Orléans]: http://www.univ-orleans.fr/polytech/
 [INSA Lyon]: http://www.insa-lyon.fr/en/
 [CITI-Inria]: http://www.citi-lab.fr/en_UK/
@@ -42,8 +29,8 @@ students at INSA Lyon.
 [National Instruments]: https://www.ni.com/
 [IRISA]: https://www.irisa.fr/en
 [ARGO European project]: http://www.argo-project.eu/
-
-[FPGA architecture]: http://perso.citi.insa-lyon.fr/trisset/cours/rts12/slides/FPGA-handout.pdf
+[INSA Rennes]: https://www.insa-rennes.fr/en.html
+[IETR]: https://www.ietr.fr/?lang=en
 
 #### Selected Publications
 
