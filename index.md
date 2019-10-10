@@ -36,9 +36,9 @@ and [IRISA] laboratory in Rennes, France.
 
 For a full list of publications, see [publications](publications).
 
-- [Fine-Grain Iterative Compilation for WCET Estimation](http://www.irisa.fr/alf/downloads/puaut/papers/WCET_2018.pdf).<br>
-  [Isabelle Puaut], **Mickaël Dardaillon**, Christoph Cullmann, Gernot Gebhard, and Steven Derrien<br>
-  in International Workshop on Worst-Case Execution Time Analysis, Barcelona, Spain, July 2018.
+- [Reconciling Compiler Optimizations and WCET Estimation Using Iterative Compilation](https://hal.archives-ouvertes.fr/hal-02286164).<br>
+**Mickaël Dardaillon**, Stefanos Skalistis, Isabelle Puaut and Steven Derrien<br>
+	in Real Time Systems Symposium (RTSS), Hong Kong, China, December 2019.
 - [A new compilation flow for software-defined radio applications on heterogeneous MPSoCs](https://hal.inria.fr/hal-01396143).<br>
   **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
   [Henri-Pierre Charles]<br>
