@@ -78,7 +78,6 @@ Issues](http://hal.inria.fr/hal-00859467/)<br>
 - [Multirate Dataflow for FPGA Programming](https://hackmd.io/s/H1qxbyqkf#Micka%C3%ABl---MultiRate).<br>
   **Mickaël Dardaillon**<br>
   in Dataflow Worksop, INSA Rennes, France, December 2017.
-
 - [Compilation of Parametric Dataflow Applications for
    Software-Defined-Radio-Dedicated MPSoCs](http://embedded.eecs.berkeley.edu/seminar/#77d07f).<br>
    **Mickaël Dardaillon**<br>
