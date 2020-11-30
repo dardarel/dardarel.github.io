@@ -29,6 +29,10 @@ title: "Publications"
 <hr>
 #### International conference articles
 
+
+- [A fast heuristic to pipeline SDF graphs](https://hal.archives-ouvertes.fr/hal-02993338).<br>
+[Alexandre Honorat], [Karol Desnos], **Mickaël Dardaillon** and [Jean-François Nezan],
+in International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation, Samos Island, Greece, July 2020.
 - [Reconciling Compiler Optimizations and WCET Estimation Using Iterative Compilation](https://hal.archives-ouvertes.fr/hal-02286164).<br>
 **Mickaël Dardaillon**, Stefanos Skalistis, Isabelle Puaut and Steven Derrien<br>
 	in Real Time Systems Symposium (RTSS), Hong Kong, China, December 2019.
@@ -120,3 +124,6 @@ Issues](http://hal.inria.fr/hal-00859467/)<br>
 [Chadi Jabbour]: http://www.researchgate.net/profile/Chadi_Jabbour/
 [Vason Srini]: http://www.researchgate.net/profile/Vason_Srini2/
 [Isabelle Puaut]: https://team.inria.fr/pacap/members/isabelle-puaut/
+[Alexandre Honorat]: https://www.linkedin.com/in/alexandre-honorat-937a2695/
+[Karol Desnos]: http://kdesnos.fr/
+[Jean-François Nezan]: https://www.linkedin.com/in/jean-françois-nezan-6245295/
