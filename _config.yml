@@ -1,5 +1,12 @@
-title:          "Mickaël Dardaillon"
-markdown:       kramdown
-highlighter:    rouge
+title: "Mickaël Dardaillon"
+description: Home page
+url: "https://dardarel.github.io"
 
-url:            "https://dardarel.github.io"
+theme: minima
+
+email: "mickael.dardaillon@insa-rennes.fr"
+github_username: dardarel
+flickr_username: dardarel
+linkedin_username: mickaeldardaillon
+
+

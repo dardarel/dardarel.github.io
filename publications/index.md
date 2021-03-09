@@ -1,16 +1,15 @@
 ---
-layout: default
 title: "Publications"
 ---
 
-#### Thesis manuscript
+# Thesis manuscript
 
 - [Compilation d'applications flot de données paramétriques pour MPSoC dédiés à
   la radio logicielle](http://www.theses.fr/2014ISAL0102/document).<br>
   **Mickaël Dardaillon** at INSA Lyon, France, November 2014.
 
 <hr>
-#### Journal article
+# Journal article
 
 - [A new compilation flow for software-defined radio applications on heterogeneous MPSoCs](https://hal.inria.fr/hal-01396143).<br>
   **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
@@ -18,7 +17,7 @@ title: "Publications"
   in ACM Transactions on Architecture and Code Optimization (TACO), vol.
   13, no. 2, June 2016.
 <hr>
-#### Book chapter
+# Book chapter
 
 - Cognitive Radio Programming Survey.<br>
   **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
@@ -27,7 +26,7 @@ title: "Publications"
   for Dynamic Spectrum Management, IGI Global, October 2014.
 
 <hr>
-#### International conference articles
+# International conference articles
 
 
 - [A fast heuristic to pipeline SDF graphs](https://hal.archives-ouvertes.fr/hal-02993338).<br>
@@ -58,7 +57,7 @@ in International Conference on Embedded Computer Systems: Architectures, Modelin
    (IWCMC), Limasol, Cyprus, August 2012.
 
 <hr>
-#### National conference article
+# National conference article
 
 - [Contrôle d’application flot de données pour les systèmes sur puces : étude
 de cas sur la plateforme Magali](http://hal.inria.fr/hal-00984310).<br>
@@ -68,7 +67,7 @@ de cas sur la plateforme Magali](http://hal.inria.fr/hal-00984310).<br>
    Switzerland, April 2014.
 
 <hr>
-#### Research report
+# Research report
 
 - [Cognitive Radio Programming: Existing Solutions and Open
 Issues](http://hal.inria.fr/hal-00859467/)<br>
@@ -77,7 +76,7 @@ Issues](http://hal.inria.fr/hal-00859467/)<br>
    in Inria tech report, September 2014.
 
 <hr>
-#### Seminars
+# Seminars
 
 - [Multirate Dataflow for FPGA Programming](https://hackmd.io/s/H1qxbyqkf#Micka%C3%ABl---MultiRate).<br>
   **Mickaël Dardaillon**<br>

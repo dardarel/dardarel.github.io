@@ -1,23 +1,24 @@
 ---
-layout: home
-title: "Home page"
+layout: default
+description: "Home page"
 ---
 
-#### Resume
+![photo](img/photo.jpg)
 
-Mickaël Dardaillon is an associate professor at [INSA Rennes].
-He holds a joint appointment at the [IETR] laboratory.
-His current research efforts concentrates on compilation for MPSoC and
+# Resume
+
+I am an an associate professor at [INSA Rennes], with a joint appointment at the [IETR] laboratory.
+My current research efforts concentrates on compilation for MPSoC and
 FPGA.
-He is interested in embedded systems programming, compilation and hardware
+I am interested in embedded systems programming, compilation and hardware
 architecture.
 
-He received the Engineering and Master degrees in Electrical Engineering from
+I received the Engineering and Master degrees in Electrical Engineering from
 [Polytech'Orléans], France, in 2011,
 and the Ph.D.  degree in Computer Science from [INSA Lyon], France, in
 2014, working with the [CITI-Inria] laboratory in collaboration with
 [CEA LETI].
-He previously worked at [Nokia] in Berkeley, California,
+I previously worked at [Nokia] in Berkeley, California,
 [National Instruments] in Austin, Texas
 and [IRISA] laboratory in Rennes, France.
 
@@ -32,7 +33,7 @@ and [IRISA] laboratory in Rennes, France.
 [INSA Rennes]: https://www.insa-rennes.fr/en.html
 [IETR]: https://www.ietr.fr/?lang=en
 
-#### Selected Publications
+# Selected Publications
 
 For a full list of publications, see [publications](publications).
 
@@ -63,3 +64,11 @@ For a full list of publications, see [publications](publications).
 [Chadi Jabbour]: http://www.researchgate.net/profile/Chadi_Jabbour/
 [Isabelle Puaut]: https://team.inria.fr/pacap/members/isabelle-puaut/
 [Vason Srini]: http://www.researchgate.net/profile/Vason_Srini2/
+
+# Miscellaneous
+
+Most of my free time is spent outside, either high up in the mountains
+or down low freediving, and I usually carry a camera:
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/136158769@N04" title=""><img src="https://live.staticflickr.com/65535/50953630796_ace248079d_z.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
