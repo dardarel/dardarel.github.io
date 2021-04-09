@@ -1,6 +1,5 @@
 ---
-layout: default
-description: "Home page"
+title: Home page
 ---
 
 ![photo](img/photo.jpg)
@@ -68,7 +67,7 @@ For a full list of publications, see [publications](publications).
 # Miscellaneous
 
 Most of my free time is spent outside, either high up in the mountains
-or down low freediving, and I usually carry a camera:
+or deep down freediving, and I usually carry a camera:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/136158769@N04" title=""><img src="https://live.staticflickr.com/65535/50953630796_ace248079d_z.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

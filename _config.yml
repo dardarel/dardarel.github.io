@@ -1,5 +1,5 @@
 title: "Mickaël Dardaillon"
-description: Home page
+description: "Mickaël Dardaillon home page"
 url: "https://dardarel.github.io"
 
 theme: minima
@@ -9,4 +9,8 @@ github_username: dardarel
 flickr_username: dardarel
 linkedin_username: mickaeldardaillon
 
-
+header_pages:
+  - publications/index.md
+  - teaching/index.md
+  - tutorials/index.md
+  - events/index.md
