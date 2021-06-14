@@ -99,12 +99,12 @@ This tutorial is adapted from [Xilinx Vitis Tutorial](https://www.github.com/Xil
    - Select **vadd_system** in **Explore**r window and click **Build** icon in toolbar.
 1. Running Vector Addition Application on the Board
    - Copy **zed_custom_package/vadd_system/Hardware/package/sd_card.img** to local if Vitis is running on a remote server.
-   - Write **sd_card.img** into SD Card with SD Card image writer applications like **Etcher** on Windows or **dd** on Linux.
+   - Write **sd_card.img** into SD Card, see tutorials for [linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md), [mac](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md) and [windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md).
    - Boot Zedboard with the SD card in SD boot mode.
    - Connect to board
       - UART connection
       ```
-      minicom -D /dev/ttyACM0 -b 115200 -8`
+      minicom -D /dev/ttyACM0 -b 115200 -8
       ```
       - login
       ``` 
