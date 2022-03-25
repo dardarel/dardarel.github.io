@@ -29,6 +29,8 @@ title: "Publications"
 # International conference articles
 
 
+- [An Automated and Centralized Data Generation and Acquisition System](https://hal.archives-ouvertes.fr/hal-03600943).<br>
+[Majdi Richa], [Jean-Christophe Prevotet], **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat, in IEEE International Conference on Electronics, Circuits, and Systems (ICECS), Dubai, United Arab Emirates, November 2021
 - [A fast heuristic to pipeline SDF graphs](https://hal.archives-ouvertes.fr/hal-02993338).<br>
 [Alexandre Honorat], [Karol Desnos], **Mickaël Dardaillon** and [Jean-François Nezan],
 in International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation, Samos Island, Greece, July 2020.
@@ -126,3 +128,5 @@ Issues](http://hal.inria.fr/hal-00859467/)<br>
 [Alexandre Honorat]: https://www.linkedin.com/in/alexandre-honorat-937a2695/
 [Karol Desnos]: http://kdesnos.fr/
 [Jean-François Nezan]: https://www.linkedin.com/in/jean-françois-nezan-6245295/
+[Majdi Richa]: https://www.linkedin.com/in/majdi-richa-7236511/
+[Jean-Christophe Prevotet]: https://www.linkedin.com/in/jean-christophe-pr%C3%A9votet-102b01a6/
