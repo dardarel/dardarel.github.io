@@ -9,13 +9,18 @@ title: "Publications"
   **Mickaël Dardaillon** at INSA Lyon, France, November 2014.
 
 <hr>
-# Journal article
+# Journal articles
+
+- [High-Level Power Estimation Techniques in Embedded Systems Hardware: an Overview](https://hal.archives-ouvertes.fr/hal-03770344).<br>
+[Majdi Richa], [Jean-Christophe Prevotet], **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat<br>
+in The Journal of Supercomputing, Springer, September 2022.
 
 - [A new compilation flow for software-defined radio applications on heterogeneous MPSoCs](https://hal.inria.fr/hal-01396143).<br>
   **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
   [Henri-Pierre Charles]<br>
   in ACM Transactions on Architecture and Code Optimization (TACO), vol.
   13, no. 2, June 2016.
+
 <hr>
 # Book chapter
 
