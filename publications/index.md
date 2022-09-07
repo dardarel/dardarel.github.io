@@ -33,7 +33,8 @@ in The Journal of Supercomputing, Springer, September 2022.
 <hr>
 # International conference articles
 
-
+- [High-Level Early Power Estimation of FPGA IP Based on Machine Learning](https://hal.archives-ouvertes.fr/hal-03771132).<br>
+[Majdi Richa], [Jean-Christophe Prevotet], **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat, in IEEE International Conference on Electronics, Circuits & Systems (ICECS), Glasgow, United Kingdom, October 2022
 - [An Automated and Centralized Data Generation and Acquisition System](https://hal.archives-ouvertes.fr/hal-03600943).<br>
 [Majdi Richa], [Jean-Christophe Prevotet], **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat, in IEEE International Conference on Electronics, Circuits, and Systems (ICECS), Dubai, United Arab Emirates, November 2021
 - [A fast heuristic to pipeline SDF graphs](https://hal.archives-ouvertes.fr/hal-02993338).<br>
