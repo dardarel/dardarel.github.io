@@ -33,10 +33,13 @@ in The Journal of Supercomputing, Springer, September 2022.
 <hr>
 # International conference articles
 
+
+- [Automated Training Data Construction using Measurements for High-Level Learning-Based FPGA Power Modeling](https://hal.archives-ouvertes.fr/hal-03793988).<br>
+[Majdi Richa], [Jean-Christophe Prevotet], **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat, in IEEE International Conference on Smart Systems and Power Management (IC2SPM), Beirut, Lebanon, November 2022.
 - [High-Level Early Power Estimation of FPGA IP Based on Machine Learning](https://hal.archives-ouvertes.fr/hal-03771132).<br>
-[Majdi Richa], [Jean-Christophe Prevotet], **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat, in IEEE International Conference on Electronics, Circuits & Systems (ICECS), Glasgow, United Kingdom, October 2022
+[Majdi Richa], [Jean-Christophe Prevotet], **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat, in IEEE International Conference on Electronics, Circuits & Systems (ICECS), Glasgow, United Kingdom, October 2022.
 - [An Automated and Centralized Data Generation and Acquisition System](https://hal.archives-ouvertes.fr/hal-03600943).<br>
-[Majdi Richa], [Jean-Christophe Prevotet], **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat, in IEEE International Conference on Electronics, Circuits, and Systems (ICECS), Dubai, United Arab Emirates, November 2021
+[Majdi Richa], [Jean-Christophe Prevotet], **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat, in IEEE International Conference on Electronics, Circuits, and Systems (ICECS), Dubai, United Arab Emirates, November 2021.
 - [A fast heuristic to pipeline SDF graphs](https://hal.archives-ouvertes.fr/hal-02993338).<br>
 [Alexandre Honorat], [Karol Desnos], **Mickaël Dardaillon** and [Jean-François Nezan],
 in International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation, Samos Island, Greece, July 2020.
