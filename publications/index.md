@@ -34,6 +34,10 @@ in The Journal of Supercomputing, Springer, September 2022.
 # International conference articles
 
 
+- [Ultra-Fast Machine Learning Inference through C Code Generation for Tangled Program Graphs](https://hal.archives-ouvertes.fr/hal-03845227/)
+[Karol Desnos], [Thomas Bourgoin], **Mickaël Dardaillon**, [Nicolas Sourbier], [Olivier Gesny], [Maxime Pelcat], in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, November 2022.
+- [Co-optimizing Dataflow Graphs and Actors with MLIR](https://hal.archives-ouvertes.fr/hal-03845902)
+[Pedro Ciambra], **Mickaël Dardaillon**, [Maxime Pelcat], [Hervé Yviquel], in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, November 2022.
 - [Automated Training Data Construction using Measurements for High-Level Learning-Based FPGA Power Modeling](https://hal.archives-ouvertes.fr/hal-03793988).<br>
 [Majdi Richa], [Jean-Christophe Prevotet], **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat, in IEEE International Conference on Smart Systems and Power Management (IC2SPM), Beirut, Lebanon, November 2022.
 - [High-Level Early Power Estimation of FPGA IP Based on Machine Learning](https://hal.archives-ouvertes.fr/hal-03771132).<br>
@@ -139,3 +143,9 @@ Issues](http://hal.inria.fr/hal-00859467/)<br>
 [Jean-François Nezan]: https://www.linkedin.com/in/jean-françois-nezan-6245295/
 [Majdi Richa]: https://www.linkedin.com/in/majdi-richa-7236511/
 [Jean-Christophe Prevotet]: https://www.linkedin.com/in/jean-christophe-pr%C3%A9votet-102b01a6/
+[Thomas Bourgoin]: https://www.linkedin.com/in/thomas-bourgoin-72a3041a2/
+[Nicolas Sourbier]: https://www.linkedin.com/in/nsourbier/
+[Olivier Gesny]: https://www.linkedin.com/in/olivier-gesny-47a5281/
+[Maxime Pelcat]: https://mpelcat.github.io/
+[Pedro Ciambra]: https://www.linkedin.com/in/pedro-ciambra-9aa91087/
+[Hervé Yviquel]: https://www.linkedin.com/in/hyviquel/

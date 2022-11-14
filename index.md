@@ -36,6 +36,10 @@ and [IRISA] laboratory in Rennes, France.
 
 For a full list of publications, see [publications](publications).
 
+- [Ultra-Fast Machine Learning Inference through C Code Generation for Tangled Program Graphs](https://hal.archives-ouvertes.fr/hal-03845227/)
+[Karol Desnos], [Thomas Bourgoin], **Mickaël Dardaillon**, [Nicolas Sourbier], [Olivier Gesny], [Maxime Pelcat], in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, November 2022.
+- [Co-optimizing Dataflow Graphs and Actors with MLIR](https://hal.archives-ouvertes.fr/hal-03845902)
+[Pedro Ciambra], **Mickaël Dardaillon**, [Maxime Pelcat], [Hervé Yviquel], in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, November 2022.
 - [Reconciling Compiler Optimizations and WCET Estimation Using Iterative Compilation](https://hal.archives-ouvertes.fr/hal-02286164).<br>
 **Mickaël Dardaillon**, Stefanos Skalistis, Isabelle Puaut and Steven Derrien<br>
 	in Real Time Systems Symposium (RTSS), Hong Kong, China, December 2019.
@@ -44,12 +48,6 @@ For a full list of publications, see [publications](publications).
   [Henri-Pierre Charles]<br>
   in ACM Transactions on Architecture and Code Optimization (TACO), vol.
   13, no. 2, June 2016.
-- [Adaptive Digital Pre-distortion for Future Wireless Transmitters](http://dx.doi.org/10.1109/ICECS.2015.7440316).<br>
-   **Mickaël Dardaillon**, [Chadi Jabbour] and [Vason Srini]<br>
-   in IEEE International Conference on Electronics, Circuits, and Systems. Cairo, Egypt, December 2015.
-- [Compilation d'applications flot de données paramétriques pour MPSoC dédiés à
-  la radio logicielle](http://www.theses.fr/2014ISAL0102/document).<br>
-  **Mickaël Dardaillon** at INSA Lyon, France, November 2014.
 - [A Compilation Flow for Parametric Dataflow: Programming Model, Scheduling,
    and Application to Heterogeneous MPSoC](https://hal.inria.fr/hal-01048649).<br>
    **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
@@ -63,6 +61,13 @@ For a full list of publications, see [publications](publications).
 [Chadi Jabbour]: http://www.researchgate.net/profile/Chadi_Jabbour/
 [Isabelle Puaut]: https://team.inria.fr/pacap/members/isabelle-puaut/
 [Vason Srini]: http://www.researchgate.net/profile/Vason_Srini2/
+[Thomas Bourgoin]: https://www.linkedin.com/in/thomas-bourgoin-72a3041a2/
+[Nicolas Sourbier]: https://www.linkedin.com/in/nsourbier/
+[Olivier Gesny]: https://www.linkedin.com/in/olivier-gesny-47a5281/
+[Maxime Pelcat]: https://mpelcat.github.io/
+[Pedro Ciambra]: https://www.linkedin.com/in/pedro-ciambra-9aa91087/
+[Hervé Yviquel]: https://www.linkedin.com/in/hyviquel/
+[Karol Desnos]: http://kdesnos.fr/
 
 # Miscellaneous
 
