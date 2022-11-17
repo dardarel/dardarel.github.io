@@ -40,6 +40,9 @@ For a full list of publications, see [publications](publications).
 [Karol Desnos], [Thomas Bourgoin], **Mickaël Dardaillon**, [Nicolas Sourbier], [Olivier Gesny], [Maxime Pelcat], in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, November 2022.
 - [Co-optimizing Dataflow Graphs and Actors with MLIR](https://hal.archives-ouvertes.fr/hal-03845902)
 [Pedro Ciambra], **Mickaël Dardaillon**, [Maxime Pelcat], [Hervé Yviquel], in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, November 2022.
+- [A fast heuristic to pipeline SDF graphs](https://hal.archives-ouvertes.fr/hal-02993338).<br>
+[Alexandre Honorat], [Karol Desnos], **Mickaël Dardaillon** and [Jean-François Nezan],
+in International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation, Samos Island, Greece, July 2020.
 - [Reconciling Compiler Optimizations and WCET Estimation Using Iterative Compilation](https://hal.archives-ouvertes.fr/hal-02286164).<br>
 **Mickaël Dardaillon**, Stefanos Skalistis, Isabelle Puaut and Steven Derrien<br>
 	in Real Time Systems Symposium (RTSS), Hong Kong, China, December 2019.
@@ -48,11 +51,6 @@ For a full list of publications, see [publications](publications).
   [Henri-Pierre Charles]<br>
   in ACM Transactions on Architecture and Code Optimization (TACO), vol.
   13, no. 2, June 2016.
-- [A Compilation Flow for Parametric Dataflow: Programming Model, Scheduling,
-   and Application to Heterogeneous MPSoC](https://hal.inria.fr/hal-01048649).<br>
-   **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
-   [Henri-Pierre Charles]<br>
-   in International Conference on Compilers, Architecture and Synthesis for Embedded Systems (CASES), New Dehli, India, October 2014.
 
 [Kevin Marquet]: http://perso.citi-lab.fr/kmarquet/
 [Tanguy Risset]: http://perso.citi.insa-lyon.fr/trisset/
@@ -68,6 +66,8 @@ For a full list of publications, see [publications](publications).
 [Pedro Ciambra]: https://www.linkedin.com/in/pedro-ciambra-9aa91087/
 [Hervé Yviquel]: https://www.linkedin.com/in/hyviquel/
 [Karol Desnos]: http://kdesnos.fr/
+[Alexandre Honorat]: https://www.linkedin.com/in/alexandre-honorat-937a2695/
+[Jean-François Nezan]: https://www.linkedin.com/in/jean-françois-nezan-6245295/
 
 # Miscellaneous
 
