@@ -33,7 +33,9 @@ in The Journal of Supercomputing, Springer, September 2022.
 <hr>
 # International conference articles
 
-
+- [High-Level Online Power Monitoring of FPGA IP Based on Machine Learning](https://hal.archives-ouvertes.fr/hal-03907773).<br>
+[Majdi Richa], [Jean-Christophe Prevotet], **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat, in Workshop on Design and Architectures for Signal and Image Processing (DASIP), Toulouse, France, January 2022.
+IEEE International Conference on Smart Systems and Power Management (IC2SPM), Beirut, Lebanon, November 2022.
 - [Ultra-Fast Machine Learning Inference through C Code Generation for Tangled Program Graphs](https://hal.archives-ouvertes.fr/hal-03845227/)
 [Karol Desnos], [Thomas Bourgoin], **Mickaël Dardaillon**, [Nicolas Sourbier], [Olivier Gesny], [Maxime Pelcat], in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, November 2022.
 - [Co-optimizing Dataflow Graphs and Actors with MLIR](https://hal.archives-ouvertes.fr/hal-03845902)
