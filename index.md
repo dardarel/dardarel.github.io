@@ -36,38 +36,25 @@ and [IRISA] laboratory in Rennes, France.
 
 For a full list of publications, see [publications](publications).
 
-- [Ultra-Fast Machine Learning Inference through C Code Generation for Tangled Program Graphs](https://hal.archives-ouvertes.fr/hal-03845227/)
-[Karol Desnos], [Thomas Bourgoin], **Mickaël Dardaillon**, [Nicolas Sourbier], [Olivier Gesny], [Maxime Pelcat], in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, November 2022.
-- [Co-optimizing Dataflow Graphs and Actors with MLIR](https://hal.archives-ouvertes.fr/hal-03845902)
-[Pedro Ciambra], **Mickaël Dardaillon**, [Maxime Pelcat], [Hervé Yviquel], in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, November 2022.
-- [A fast heuristic to pipeline SDF graphs](https://hal.archives-ouvertes.fr/hal-02993338).<br>
-[Alexandre Honorat], [Karol Desnos], **Mickaël Dardaillon** and [Jean-François Nezan],
-in International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation, Samos Island, Greece, July 2020.
-- [Reconciling Compiler Optimizations and WCET Estimation Using Iterative Compilation](https://hal.archives-ouvertes.fr/hal-02286164).<br>
-**Mickaël Dardaillon**, Stefanos Skalistis, Isabelle Puaut and Steven Derrien<br>
-	in Real Time Systems Symposium (RTSS), Hong Kong, China, December 2019.
-- [A new compilation flow for software-defined radio applications on heterogeneous MPSoCs](https://hal.inria.fr/hal-01396143).<br>
-  **Mickaël Dardaillon**, [Kevin Marquet], [Tanguy Risset], Jérôme Martin and
-  [Henri-Pierre Charles]<br>
-  in ACM Transactions on Architecture and Code Optimization (TACO), vol.
-  13, no. 2, June 2016.
+- Karol Desnos, Thomas Bourgoin, **Mickaël Dardaillon**, Nicolas Sourbier, Olivier Gesny, Maxime Pelcat,
+  "[Ultra-Fast Machine Learning Inference through C Code Generation for Tangled Program Graphs](https://hal.archives-ouvertes.fr/hal-03845227/)",
+  in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, Nov. 2022.
 
-[Kevin Marquet]: http://perso.citi-lab.fr/kmarquet/
-[Tanguy Risset]: http://perso.citi.insa-lyon.fr/trisset/
-[Henri-Pierre Charles]: http://henripierre.charles.free.fr/
-[Cedric Lauradoux]: http://planete.inrialpes.fr/~lauradou/
-[Chadi Jabbour]: http://www.researchgate.net/profile/Chadi_Jabbour/
-[Isabelle Puaut]: https://team.inria.fr/pacap/members/isabelle-puaut/
-[Vason Srini]: http://www.researchgate.net/profile/Vason_Srini2/
-[Thomas Bourgoin]: https://www.linkedin.com/in/thomas-bourgoin-72a3041a2/
-[Nicolas Sourbier]: https://www.linkedin.com/in/nsourbier/
-[Olivier Gesny]: https://www.linkedin.com/in/olivier-gesny-47a5281/
-[Maxime Pelcat]: https://mpelcat.github.io/
-[Pedro Ciambra]: https://www.linkedin.com/in/pedro-ciambra-9aa91087/
-[Hervé Yviquel]: https://www.linkedin.com/in/hyviquel/
-[Karol Desnos]: http://kdesnos.fr/
-[Alexandre Honorat]: https://www.linkedin.com/in/alexandre-honorat-937a2695/
-[Jean-François Nezan]: https://www.linkedin.com/in/jean-françois-nezan-6245295/
+- <u>Pedro Ciambra</u>, **Mickaël Dardaillon**, Maxime Pelcat, Hervé Yviquel,
+  "[Co-optimizing Dataflow Graphs and Actors with MLIR](https://hal.archives-ouvertes.fr/hal-03845902)",
+  in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, Nov. 2022.
+
+- Alexandre Honorat, Karol Desnos, **Mickaël Dardaillon** and Jean-François Nezan,
+  "[A fast heuristic to pipeline SDF graphs](https://hal.archives-ouvertes.fr/hal-02993338)",
+  in International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation, Samos Island, Greece, Jul. 2020.
+
+- **Mickaël Dardaillon**, Stefanos Skalistis, Isabelle Puaut and Steven Derrien,
+  "[Reconciling Compiler Optimizations and WCET Estimation Using Iterative Compilation](https://hal.archives-ouvertes.fr/hal-02286164)",
+  in Real Time Systems Symposium (RTSS), Hong Kong, China, Dec. 2019.
+
+- **Mickaël Dardaillon**, Kevin Marquet, Tanguy Risset, Jérôme Martin and Henri-Pierre Charles,
+  "[A new compilation flow for software-defined radio applications on heterogeneous MPSoCs](https://hal.inria.fr/hal-01396143)",
+  in ACM Transactions on Architecture and Code Optimization (TACO), vol. 13, no. 2, Jun. 2016.
 
 # Miscellaneous
 
