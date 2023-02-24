@@ -103,6 +103,10 @@ title: "Publications"
 # Seminars
 
 - Alexandre Honorat, **Mickaël Dardaillon** and Jean-François Nezan,
+  "[Dataflow code generation for FPGA](https://www.youtube.com/watch?v=Yqa74bPWMZg)",
+  in UNICAMP Seminar, Campinas, São Paulo, Aug. 2022.
+
+- Alexandre Honorat, **Mickaël Dardaillon** and Jean-François Nezan,
   "Génération de code dataflow pour FPGA",
   in Journées Calcul Scientifique sur FPGA, Saclay, France, Jul. 2022.
 
