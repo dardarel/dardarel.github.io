@@ -4,7 +4,7 @@ title: "Publications"
 
 # Journal articles
 
-- <u>Majdi Richa</u>, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
+- *Majdi Richa*, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
   "[High-Level Power Estimation Techniques in Embedded Systems Hardware: an Overview](https://hal.archives-ouvertes.fr/hal-03770344)",
   in The Journal of Supercomputing, Springer, Sep. 2022.
 
@@ -22,7 +22,7 @@ title: "Publications"
 <hr>
 # International conference articles
 
-- <u>Majdi Richa</u>, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
+- *Majdi Richa*, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
   "[High-Level Online Power Monitoring of FPGA IP Based on Machine Learning](https://hal.archives-ouvertes.fr/hal-03907773)",
   in Workshop on Design and Architectures for Signal and Image Processing (DASIP), Toulouse, France, Jan. 2022.
 
@@ -30,19 +30,19 @@ title: "Publications"
   "[Ultra-Fast Machine Learning Inference through C Code Generation for Tangled Program Graphs](https://hal.archives-ouvertes.fr/hal-03845227/)",
   in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, Nov. 2022.
 
-- <u>Pedro Ciambra</u>, **Mickaël Dardaillon**, Maxime Pelcat, Hervé Yviquel,
+- *Pedro Ciambra*, **Mickaël Dardaillon**, Maxime Pelcat, Hervé Yviquel,
   "[Co-optimizing Dataflow Graphs and Actors with MLIR](https://hal.archives-ouvertes.fr/hal-03845902)",
   in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, Nov. 2022.
 
-- <u>Majdi Richa</u>, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
+- *Majdi Richa*, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
   "[Automated Training Data Construction using Measurements for High-Level Learning-Based FPGA Power Modeling](https://hal.archives-ouvertes.fr/hal-03793988)",
   in IEEE International Conference on Smart Systems and Power Management (IC2SPM), Beirut, Lebanon, Nov. 2022.
 
-- <u>Majdi Richa</u>, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
+- *Majdi Richa*, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
   "[High-Level Early Power Estimation of FPGA IP Based on Machine Learning](https://hal.archives-ouvertes.fr/hal-03771132)",
   in IEEE International Conference on Electronics, Circuits & Systems (ICECS), Glasgow, United Kingdom, Oct. 2022.
 
-- <u>Majdi Richa</u>, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
+- *Majdi Richa*, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
   "[An Automated and Centralized Data Generation and Acquisition System](https://hal.archives-ouvertes.fr/hal-03600943)",
   in IEEE International Conference on Electronics, Circuits, and Systems (ICECS), Dubai, United Arab Emirates, Nov. 2021.
 
