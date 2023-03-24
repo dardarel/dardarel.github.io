@@ -11,6 +11,7 @@ linkedin_username: mickaeldardaillon
 
 header_pages:
   - publications/index.md
+  - projects/index.md
   - teaching/index.md
   - tutorials/index.md
   - events/index.md
