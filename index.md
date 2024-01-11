@@ -36,6 +36,10 @@ and [IRISA] laboratory in Rennes, France.
 
 For a full list of publications, see [publications](publications).
 
+- Alexandre Honorat, **Mickaël Dardaillon**, Hugo Miomandre and Jean-François Nezan,
+"[Automated Buffer Sizing of Dataflow Applications in a High-Level Synthesis Workflow](https://hal.science/hal-04237266)",
+in ACM Trans. Reconfigurable Technol. Syst., Sep. 2023.
+
 - Karol Desnos, Thomas Bourgoin, **Mickaël Dardaillon**, Nicolas Sourbier, Olivier Gesny, Maxime Pelcat,
   "[Ultra-Fast Machine Learning Inference through C Code Generation for Tangled Program Graphs](https://hal.archives-ouvertes.fr/hal-03845227/)",
   in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, Nov. 2022.
@@ -51,10 +55,6 @@ For a full list of publications, see [publications](publications).
 - **Mickaël Dardaillon**, Stefanos Skalistis, Isabelle Puaut and Steven Derrien,
   "[Reconciling Compiler Optimizations and WCET Estimation Using Iterative Compilation](https://hal.archives-ouvertes.fr/hal-02286164)",
   in Real Time Systems Symposium (RTSS), Hong Kong, China, Dec. 2019.
-
-- **Mickaël Dardaillon**, Kevin Marquet, Tanguy Risset, Jérôme Martin and Henri-Pierre Charles,
-  "[A new compilation flow for software-defined radio applications on heterogeneous MPSoCs](https://hal.inria.fr/hal-01396143)",
-  in ACM Transactions on Architecture and Code Optimization (TACO), vol. 13, no. 2, Jun. 2016.
 
 # Miscellaneous
 
