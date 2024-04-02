@@ -4,7 +4,7 @@ title: "Projects"
 
 # Current projects
 
-#### ANR JCJC Foutics, 2023 - 2026, 282 k€, leader
+#### [ANR JCJC Foutics](https://gegelati.github.io/projects/foutics/), 2023 - 2026, 282 k€, leader
 
 The aim of the FOUTICS project is to propose full-stack, open-source methods and tools to train and infer ultra-lightweight AIs, by extending, implementing, and optimizing Tangled Program Graphs (TPGs).
 Exploiting the TPG efficiency and integrating energy optimization at its core, FOUTICS will create methodologies to implement energy efficient AI, capable of nanoseconds reaction time on hardware platforms ranging from Ultra-Low Power embedded devices to reconfigurable devices. Extending TPGs to new learning environments, FOUTICS will enable real world Cyber-Physical System use cases and will optimize energy use from training to physical execution on the factory floor.
