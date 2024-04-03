@@ -36,23 +36,23 @@ and [IRISA] laboratory in Rennes, France.
 
 For a full list of publications, see [publications](publications).
 
-- Alexandre Honorat, **Mickaël Dardaillon**, Hugo Miomandre and Jean-François Nezan,
+- *Quentin Milot*, **Mickaël Dardaillon**, Justine Bonnot, Daniel Ménard,
+"[Wordlength Optimization for Custom Floating-point Systems](https://hal.science/hal-04457903/)",
+in Conference on Design & Architectures for Signal & Image Processing (DASIP), Munich, Germany, Jan. 2024.
+
+- Alexandre Honorat, **Mickaël Dardaillon**, Hugo Miomandre, Jean-François Nezan,
 "[Automated Buffer Sizing of Dataflow Applications in a High-Level Synthesis Workflow](https://hal.science/hal-04237266)",
-in ACM Trans. Reconfigurable Technol. Syst., Sep. 2023.
+in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Sep. 2023.
 
 - Karol Desnos, Thomas Bourgoin, **Mickaël Dardaillon**, Nicolas Sourbier, Olivier Gesny, Maxime Pelcat,
   "[Ultra-Fast Machine Learning Inference through C Code Generation for Tangled Program Graphs](https://hal.archives-ouvertes.fr/hal-03845227/)",
   in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, Nov. 2022.
 
-- <u>Pedro Ciambra</u>, **Mickaël Dardaillon**, Maxime Pelcat, Hervé Yviquel,
+- *Pedro Ciambra*, **Mickaël Dardaillon**, Maxime Pelcat, Hervé Yviquel,
   "[Co-optimizing Dataflow Graphs and Actors with MLIR](https://hal.archives-ouvertes.fr/hal-03845902)",
   in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, Nov. 2022.
 
-- Alexandre Honorat, Karol Desnos, **Mickaël Dardaillon** and Jean-François Nezan,
-  "[A fast heuristic to pipeline SDF graphs](https://hal.archives-ouvertes.fr/hal-02993338)",
-  in International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation, Samos Island, Greece, Jul. 2020.
-
-- **Mickaël Dardaillon**, Stefanos Skalistis, Isabelle Puaut and Steven Derrien,
+- **Mickaël Dardaillon**, Stefanos Skalistis, Isabelle Puaut, Steven Derrien,
   "[Reconciling Compiler Optimizations and WCET Estimation Using Iterative Compilation](https://hal.archives-ouvertes.fr/hal-02286164)",
   in Real Time Systems Symposium (RTSS), Hong Kong, China, Dec. 2019.
 
