@@ -12,7 +12,7 @@ Those tutorials are adapted from [Xilinx Vitis Tutorials](https://www.github.com
 1. [Create an hardware platform in Vivado](zedboard_vivado)
 - This tutorial is adapted for Zedboard.
 
-2. [Create the software components with Petalinux](https://github.com/Xilinx/Vitis-Tutorials/blob/master/Vitis_Platform_Creation/Introduction/02-Edge-AI-ZCU104/step2.md)
+2. [Create the software components with Petalinux](https://github.com/Xilinx/Vitis-Tutorials/blob/2023.2/Vitis_Platform_Creation/Design_Tutorials/02-Edge-AI-ZCU104/step2.md)
 - This tutorial requires minimal changes compared to Xilinx original, and can be followed directly on Xilinx website.
 
 3. [Create Vitis platform](zedboard_vitis)
