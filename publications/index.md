@@ -26,6 +26,10 @@ in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Sep. 2023.
 <hr>
 # International conference articles
 
+-  *Quentin Vacher*, Nicolas Beuve, *Paul Allaire*, Thibaut Marty, **Mickaël Dardaillon**, Karol Desnos,
+"[Hybrid Genetic Programming and Deep Reinforcement Learning for Low-Complexity Robot Arm Trajectory Planning](https://hal.science/hal-04817233)",
+in Conference on Evolutionary Computation Theory and Applications (ECTA), Porto, Portugal, Nov. 2024.
+
 - *Quentin Milot*, **Mickaël Dardaillon**, Justine Bonnot, Daniel Ménard,
 "[Wordlength Optimization for Custom Floating-point Systems](https://hal.science/hal-04457903/)",
 in Conference on Design & Architectures for Signal & Image Processing (DASIP), Munich, Germany, Jan. 2024.
