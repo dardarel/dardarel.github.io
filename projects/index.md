@@ -4,6 +4,12 @@ title: "Projects"
 
 # Current projects
 
+#### [ANR PRCI SEAMS](https://seams-project.com/), 2024 - 2027, 435 k€, participant
+
+- Partners: Observatoire de Paris (leader), Observatoire de la Côte d'Azur, INSA Rennes, EPFL
+
+This project is exploring high-risk, high-return strategies for improving the sustainability of SKA Observatory. To this end, we will research energy-aware heterogeneous computing strategies to orchestrate the execution of the calibration and imaging pipelines on the SDPs, using both general-purpose and specialised accelerators developed by this project. Our ambition is to bridge the programmability and performance gap between general purpose processors and DSIPs in the radio interferometry domain, so as to provide the ability to migrate data and tasks to the most sustainable resource in the complex cyber-infrastructure of the SKA.
+
 #### [ANR JCJC Foutics](https://gegelati.github.io/projects/foutics/), 2023 - 2026, 282 k€, leader
 
 The aim of the FOUTICS project is to propose full-stack, open-source methods and tools to train and infer ultra-lightweight AIs, by extending, implementing, and optimizing Tangled Program Graphs (TPGs).
