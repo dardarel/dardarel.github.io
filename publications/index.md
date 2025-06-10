@@ -26,6 +26,10 @@ in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Sep. 2023.
 <hr>
 # International conference articles
 
+- *Quentin Milot*, **Mickaël Dardaillon**, Justine Bonnot, Daniel Ménard,
+"[Stratified sampling: fast estimation of quantization effects on DNN](https://hal.science/hal-05097594)",
+in nternational Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS), Lyon, France, May 2025.
+
 -  *Quentin Vacher*, Nicolas Beuve, *Paul Allaire*, Thibaut Marty, **Mickaël Dardaillon**, Karol Desnos,
 "[Hybrid Genetic Programming and Deep Reinforcement Learning for Low-Complexity Robot Arm Trajectory Planning](https://hal.science/hal-04817233)",
 in Conference on Evolutionary Computation Theory and Applications (ECTA), Porto, Portugal, Nov. 2024.
