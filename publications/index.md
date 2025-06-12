@@ -26,7 +26,7 @@ in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Sep. 2023.
 <hr>
 # International conference articles
 
-- *Quentin Milot*, **Mickaël Dardaillon**, Justine Bonnot, Daniel Ménard,
+- *Quentin Milot*, **Mickaël Dardaillon**, Daniel Ménard,
 "[Stratified sampling: fast estimation of quantization effects on DNN](https://hal.science/hal-05097594)",
 in nternational Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS), Lyon, France, May 2025.
 
