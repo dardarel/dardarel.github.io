@@ -26,9 +26,13 @@ in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Sep. 2023.
 <hr>
 # International conference articles
 
+- *Quentin Vacher*, Stephen Kelly, Ali Naqvi, Nicolas Beuve, Tanya Djavaherpour, **Mickaël Dardaillon**, Karol Desnos,
+"[MAPLE: Multi-Action Programs through Linear Evolution for Continuous Multi-Action Reinforcement Learning](https://hal.science/hal-05196344/)",
+in Genetic and Evolutionary Computation Conference (GECCO), Malaga, Spain, Jul. 2025.
+
 - *Quentin Milot*, **Mickaël Dardaillon**, Daniel Ménard,
 "[Stratified sampling: fast estimation of quantization effects on DNN](https://hal.science/hal-05097594)",
-in nternational Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS), Lyon, France, May 2025.
+in International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS), Lyon, France, May 2025.
 
 -  *Quentin Vacher*, Nicolas Beuve, *Paul Allaire*, Thibaut Marty, **Mickaël Dardaillon**, Karol Desnos,
 "[Hybrid Genetic Programming and Deep Reinforcement Learning for Low-Complexity Robot Arm Trajectory Planning](https://hal.science/hal-04817233)",
@@ -120,7 +124,11 @@ in Conference on Design & Architectures for Signal & Image Processing (DASIP), M
   at INSA Lyon, France, Nov. 2014.
 
 <hr>
-# Seminars
+# Seminars and workshops
+
+- *Jacques Morin*, Hugo Miomandre, **Mickaël Dardaillon**, Jean-François Nezan,
+"A dataflow-based design flow for heterogeneous embedded systems",
+in Colloque du GdR SOC2, Lorient, France, Jun, 2025.
 
 - Alexandre Honorat, **Mickaël Dardaillon**, Jean-François Nezan,
   "[Dataflow code generation for FPGA](https://www.youtube.com/watch?v=Yqa74bPWMZg)",
