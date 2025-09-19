@@ -4,6 +4,11 @@ title: Tutorials
 
 This page gather tutorials and howtos for my work.
 
+## Logisim Evolution
+
+[Download](logisim-evolution.jar)
+
+
 ## Vitis setup for Zedboard
 
 This set of tutorials describes how to setup a Zedboard to be used with Vitis for hardware acceleration.
