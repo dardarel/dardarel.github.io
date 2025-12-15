@@ -26,6 +26,10 @@ in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Sep. 2023.
 <hr>
 # International conference articles
 
+- *Pedro Ciambra*, Anaëlle Cloarec, Hervé Yviquel, **Mickaël Dardaillon**, Maxime Pelcat,
+  "[From Static to Quasi-Dynamic: Reconsidering Scheduling and Memory in SDF Compilers](https://hal.science/hal-05395468/)",
+  in International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW), Bonito, Brazil, Oct. 2025.
+
 - *Quentin Vacher*, Stephen Kelly, Ali Naqvi, Nicolas Beuve, Tanya Djavaherpour, **Mickaël Dardaillon**, Karol Desnos,
 "[MAPLE: Multi-Action Programs through Linear Evolution for Continuous Multi-Action Reinforcement Learning](https://hal.science/hal-05196344/)",
 in Genetic and Evolutionary Computation Conference (GECCO), Malaga, Spain, Jul. 2025.
