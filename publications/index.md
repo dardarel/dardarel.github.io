@@ -26,6 +26,10 @@ in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Sep. 2023.
 <hr>
 # International conference articles
 
+- *Quentin Vacher*, Nicolas Beuve, **Mickaël Dardaillon**, Karol Desnos,
+  "[Multi-action Tangled Program Graphs for Multi-task Reinforcement Learning with Continuous Control](https://hal.science/hal-05604527)",
+  in European Conference on Genetic Programming (EuroGP), Toulouse, France, Apr. 2026.
+
 - *Pedro Ciambra*, Anaëlle Cloarec, Hervé Yviquel, **Mickaël Dardaillon**, Maxime Pelcat,
   "[From Static to Quasi-Dynamic: Reconsidering Scheduling and Memory in SDF Compilers](https://hal.science/hal-05395468/)",
   in International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW), Bonito, Brazil, Oct. 2025.
