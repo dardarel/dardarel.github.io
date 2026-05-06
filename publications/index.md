@@ -51,7 +51,7 @@ in Conference on Evolutionary Computation Theory and Applications (ECTA), Porto,
 in Conference on Design & Architectures for Signal & Image Processing (DASIP), Munich, Germany, Jan. 2024.
 
 - *Flavie Durand De Gevigney*, Julien Heulot, Eric Bazin, Jean-François Nezan, **Mickaël Dardaillon**, Slaheddine Aridhi,
-"A highly configurable platform for advanced PPG analysis",
+"[A highly configurable platform for advanced PPG analysis](https://hal.science/hal-04613853/)",
 in Conference on Design & Architectures for Signal & Image Processing (DASIP), Munich, Germany, Jan. 2024.
 
 - *Majdi Richa*, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
