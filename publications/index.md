@@ -118,6 +118,13 @@ in Conference on Design & Architectures for Signal & Image Processing (DASIP), M
   in Conférence en Parallélisme, Architecture et Système (ComPAS), Neuchâtel, Switzerland, Apr. 2014.
 
 <hr>
+# National journal article
+
+- Karol Desnos, **Mickaël Dardaillon**, Quentin Vacher, 
+  "[Les algorithmes évolutifs, une piste pour rendre les IA plus sobres](https://doi.org/10.64628/AAK.p66xwhp3w)",
+  in The Conversation, May 2026.
+
+<hr>
 # Research report
 
 - **Mickaël Dardaillon**, Kevin Marquet, Tanguy Risset, Jérôme Martin, Henri-Pierre Charles,
