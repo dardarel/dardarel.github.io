@@ -26,6 +26,10 @@ in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Sep. 2023.
 <hr>
 # International conference articles
 
+-  *Paul Allaire*, **Mickaël Dardaillon**, Thibaut Marty, Alfonso Rodriguez, Andres Otero, Karol Desnos,
+  "[Accuracy-Performance-Resources Trade-Offs in RISC-V Microarchitectures for Genetic Programming](https://hal.science/hal-05674755)",
+  in International Conference on Computing Frontiers (CF), Catania, Italy, May 2026.
+
 - *Quentin Vacher*, Nicolas Beuve, **Mickaël Dardaillon**, Karol Desnos,
   "[Multi-action Tangled Program Graphs for Multi-task Reinforcement Learning with Continuous Control](https://hal.science/hal-05604527)",
   in European Conference on Genetic Programming (EuroGP), Toulouse, France, Apr. 2026.
