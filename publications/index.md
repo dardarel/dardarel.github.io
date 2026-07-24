@@ -19,6 +19,10 @@ in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Sep. 2023.
 <hr>
 # Book chapter
 
+- *Quentin Vacher*, Nicolas Beuve, **Mickaël Dardaillon**, Karol Desnos,
+  "[The Gegelati Framework for Efficient and Reproducible Solutions with Tangled Program Graphs](https://hal.science/hal-05695810)",
+  in Genetic Programming Theory and Practice XXII (GPTP), 2026.
+
 - **Mickaël Dardaillon**, Kevin Marquet, Tanguy Risset, Jérôme Martin, Henri-Pierre Charles,
   "Cognitive Radio Programming Survey",
   in Handbook of Research on Software-Defined and Cognitive Radio Technologies for Dynamic Spectrum Management, IGI Global, Oct. 2014.
