@@ -36,25 +36,25 @@ and [IRISA] laboratory in Rennes, France.
 
 For a full list of publications, see [publications](publications).
 
+-  *Paul Allaire*, **Mickaël Dardaillon**, Thibaut Marty, Alfonso Rodriguez, Andres Otero, Karol Desnos,
+  "[Accuracy-Performance-Resources Trade-Offs in RISC-V Microarchitectures for Genetic Programming](https://hal.science/hal-05674755)",
+  in International Conference on Computing Frontiers (CF), Catania, Italy, May 2026.
+
+- *Quentin Vacher*, Stephen Kelly, Ali Naqvi, Nicolas Beuve, Tanya Djavaherpour, **Mickaël Dardaillon**, Karol Desnos,
+"[MAPLE: Multi-Action Programs through Linear Evolution for Continuous Multi-Action Reinforcement Learning](https://hal.science/hal-05196344/)",
+in Genetic and Evolutionary Computation Conference (GECCO), Malaga, Spain, Jul. 2025.
+
 - *Quentin Milot*, **Mickaël Dardaillon**, Justine Bonnot, Daniel Ménard,
 "[Wordlength Optimization for Custom Floating-point Systems](https://hal.science/hal-04457903/)",
 in Conference on Design & Architectures for Signal & Image Processing (DASIP), Munich, Germany, Jan. 2024.
 
 - Alexandre Honorat, **Mickaël Dardaillon**, Hugo Miomandre, Jean-François Nezan,
 "[Automated Buffer Sizing of Dataflow Applications in a High-Level Synthesis Workflow](https://hal.science/hal-04237266)",
-in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Sep. 2023.
-
-- Karol Desnos, Thomas Bourgoin, **Mickaël Dardaillon**, Nicolas Sourbier, Olivier Gesny, Maxime Pelcat,
-  "[Ultra-Fast Machine Learning Inference through C Code Generation for Tangled Program Graphs](https://hal.archives-ouvertes.fr/hal-03845227/)",
-  in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, Nov. 2022.
+in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Jan. 2024.
 
 - *Pedro Ciambra*, **Mickaël Dardaillon**, Maxime Pelcat, Hervé Yviquel,
   "[Co-optimizing Dataflow Graphs and Actors with MLIR](https://hal.archives-ouvertes.fr/hal-03845902)",
   in IEEE Workshop on Signal Processing Systems (SiPS), Rennes, France, Nov. 2022.
-
-- **Mickaël Dardaillon**, Stefanos Skalistis, Isabelle Puaut, Steven Derrien,
-  "[Reconciling Compiler Optimizations and WCET Estimation Using Iterative Compilation](https://hal.archives-ouvertes.fr/hal-02286164)",
-  in Real Time Systems Symposium (RTSS), Hong Kong, China, Dec. 2019.
 
 # Miscellaneous
 

@@ -6,7 +6,7 @@ title: "Publications"
 
 - Alexandre Honorat, **Mickaël Dardaillon**, Hugo Miomandre, Jean-François Nezan,
 "[Automated Buffer Sizing of Dataflow Applications in a High-Level Synthesis Workflow](https://hal.science/hal-04237266)",
-in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Sep. 2023.
+in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Jan. 2024.
 
 - *Majdi Richa*, Jean-Christophe Prevotet, **Mickaël Dardaillon**, Mohamad Mroue, Abed Ellatif Samhat,
   "[High-Level Power Estimation Techniques in Embedded Systems Hardware: an Overview](https://hal.archives-ouvertes.fr/hal-03770344)",
