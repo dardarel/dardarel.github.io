@@ -25,7 +25,7 @@ in ACM Transactions on Reconfigurable Technology and Systems (TRETS), Jan. 2024.
 
 - **Mickaël Dardaillon**, Kevin Marquet, Tanguy Risset, Jérôme Martin, Henri-Pierre Charles,
   "Cognitive Radio Programming Survey",
-  in Handbook of Research on Software-Defined and Cognitive Radio Technologies for Dynamic Spectrum Management, IGI Global, Oct. 2014.
+  in Handbook of Research on Software-Defined and Cognitive Radio Technologies for Dynamic Spectrum Management, IGI Global, 2015.
 
 <hr>
 # International conference articles
@@ -119,7 +119,11 @@ in Conference on Design & Architectures for Signal & Image Processing (DASIP), M
   in International Wireless Communications and Mobile Computing Conference (IWCMC), Limasol, Cyprus, Aug. 2012.
 
 <hr>
-# National conference article
+# National conference articles
+
+-  *Paul Allaire*, **Mickaël Dardaillon**, Thibaut Marty, Alfonso Rodriguez, Andres Otero, Karol Desnos,
+  "Adéquation algorithme architecture sur microarchitectures RISC-V pour la programmation génétique",
+  in Conférence en parallélisme, architecture et systèmes (ComPAS), Anglet, France, June 2026.
 
 - **Mickaël Dardaillon**, Kevin Marquet, Tanguy Risset, Jérôme Martin, Henri-Pierre Charles,
   "[Contrôle d’application flot de données pour les systèmes sur puces : étude de cas sur la plateforme Magali](http://hal.inria.fr/hal-00984310)",
